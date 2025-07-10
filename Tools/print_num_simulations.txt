@@ -1,0 +1,266 @@
+#with open("print_num_simulations.txt", 'a') as f:
+            #f.write(f"Number of simulations for this move: {num_of_simulations}, Time limit: {self.time_limit}, Time left: {self.total_remaining_time}\n")
+
+
+With 8 8 3 board:
+
+Number of simulations for this move: 348
+Number of simulations for this move: 358
+Number of simulations for this move: 336
+Number of simulations for this move: 360
+Number of simulations for this move: 378
+Number of simulations for this move: 378
+Number of simulations for this move: 396
+Number of simulations for this move: 370
+Number of simulations for this move: 385
+Number of simulations for this move: 404
+Number of simulations for this move: 433
+Number of simulations for this move: 435
+Number of simulations for this move: 386
+Number of simulations for this move: 379
+Number of simulations for this move: 364
+Number of simulations for this move: 388
+Number of simulations for this move: 368
+Number of simulations for this move: 347
+Number of simulations for this move: 382
+Number of simulations for this move: 351
+Number of simulations for this move: 356
+Number of simulations for this move: 311
+Number of simulations for this move: 303
+Number of simulations for this move: 289
+Number of simulations for this move: 291
+Number of simulations for this move: 305
+Number of simulations for this move: 336
+Number of simulations for this move: 303
+Number of simulations for this move: 318
+Number of simulations for this move: 325
+Number of simulations for this move: 265
+Number of simulations for this move: 279
+Number of simulations for this move: 302
+Number of simulations for this move: 290
+Number of simulations for this move: 297
+Number of simulations for this move: 343
+Number of simulations for this move: 329
+Number of simulations for this move: 368
+Number of simulations for this move: 1000
+
+With 7 7 2 board:
+
+
+Number of simulations for this move: 578
+Number of simulations for this move: 577
+Number of simulations for this move: 640
+Number of simulations for this move: 705
+Number of simulations for this move: 722
+Number of simulations for this move: 721
+Number of simulations for this move: 768
+Number of simulations for this move: 791
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+
+
+
+
+Number of simulations for this move: 597
+Number of simulations for this move: 607
+Number of simulations for this move: 669
+Number of simulations for this move: 691
+Number of simulations for this move: 663
+Number of simulations for this move: 780
+Number of simulations for this move: 783
+Number of simulations for this move: 819
+Number of simulations for this move: 650
+Number of simulations for this move: 624
+Number of simulations for this move: 603
+Number of simulations for this move: 622
+Number of simulations for this move: 632
+Number of simulations for this move: 643
+Number of simulations for this move: 699
+Number of simulations for this move: 1000
+
+
+after optimize sumulate:
+
+Number of simulations for this move: 610
+Number of simulations for this move: 624
+Number of simulations for this move: 697
+Number of simulations for this move: 716
+Number of simulations for this move: 775
+Number of simulations for this move: 831
+Number of simulations for this move: 923
+Number of simulations for this move: 922
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+
+
+Number of simulations for this move: 600
+Number of simulations for this move: 613
+Number of simulations for this move: 691
+Number of simulations for this move: 715
+Number of simulations for this move: 767
+Number of simulations for this move: 885
+Number of simulations for this move: 921
+Number of simulations for this move: 949
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+
+
+Number of simulations for this move: 636
+Number of simulations for this move: 666
+Number of simulations for this move: 675
+Number of simulations for this move: 666
+Number of simulations for this move: 740
+Number of simulations for this move: 744
+Number of simulations for this move: 787
+Number of simulations for this move: 740
+Number of simulations for this move: 828
+Number of simulations for this move: 847
+Number of simulations for this move: 1000
+
+
+after switching to random.randint:
+
+Number of simulations for this move: 594
+Number of simulations for this move: 620
+Number of simulations for this move: 687
+Number of simulations for this move: 717
+Number of simulations for this move: 771
+Number of simulations for this move: 757
+Number of simulations for this move: 800
+Number of simulations for this move: 782
+Number of simulations for this move: 688
+Number of simulations for this move: 655
+Number of simulations for this move: 649
+Number of simulations for this move: 653
+Number of simulations for this move: 676
+
+
+Number of simulations for this move: 590
+Number of simulations for this move: 606
+Number of simulations for this move: 689
+Number of simulations for this move: 660
+Number of simulations for this move: 699
+Number of simulations for this move: 723
+Number of simulations for this move: 811
+Number of simulations for this move: 803
+
+
+Number of simulations for this move: 602
+Number of simulations for this move: 600
+Number of simulations for this move: 657
+Number of simulations for this move: 671
+Number of simulations for this move: 703
+Number of simulations for this move: 721
+Number of simulations for this move: 720
+Number of simulations for this move: 800
+Number of simulations for this move: 893
+Number of simulations for this move: 799
+
+
+after switching to dynamic move time:
+Number of simulations for this move: 747
+Number of simulations for this move: 777
+Number of simulations for this move: 804
+Number of simulations for this move: 914
+Number of simulations for this move: 858
+Number of simulations for this move: 907
+Number of simulations for this move: 1000
+Number of simulations for this move: 1000
+
+Number of simulations for this move: 759, Time left: 480
+Number of simulations for this move: 744, Time left: 469.9907307624817
+Number of simulations for this move: 840, Time left: 459.9752984046936
+Number of simulations for this move: 876, Time left: 449.96765065193176
+Number of simulations for this move: 905, Time left: 439.96411418914795
+Number of simulations for this move: 971, Time left: 429.95108914375305
+Number of simulations for this move: 1000, Time left: 419.947265625
+Number of simulations for this move: 1000, Time left: 410.19868445396423
+Number of simulations for this move: 1000, Time left: 400.9614689350128
+
+
+Number of simulations for this move: 735, Time left: 480
+Number of simulations for this move: 762, Time left: 469.98838663101196
+Number of simulations for this move: 835, Time left: 459.9784424304962
+Number of simulations for this move: 795, Time left: 449.857168674469
+Number of simulations for this move: 814, Time left: 439.84834575653076
+Number of simulations for this move: 933, Time left: 429.83967328071594
+Number of simulations for this move: 952, Time left: 419.83237886428833
+Number of simulations for this move: 908, Time left: 409.82294726371765
+Number of simulations for this move: 793, Time left: 399.81087708473206
+Number of simulations for this move: 1000, Time left: 389.8059515953064
+Number of simulations for this move: 1000, Time left: 383.3979277610779
+
+
+Number of simulations for this move: 922, Time left: 480
+Number of simulations for this move: 915, Time left: 467.98308777809143
+Number of simulations for this move: 978, Time left: 455.96896290779114
+Number of simulations for this move: 1000, Time left: 443.9565839767456
+Number of simulations for this move: 1000, Time left: 432.2234261035919
+Number of simulations for this move: 1000, Time left: 420.8323187828064
+Number of simulations for this move: 1000, Time left: 410.33439922332764
+Number of simulations for this move: 1000, Time left: 398.4223985671997
+Number of simulations for this move: 988, Time left: 387.6380660533905
+Number of simulations for this move: 971, Time left: 375.6316955089569
+
+Running 8 8 3 on time limit = 12:
+
+Number of simulations for this move: 545, Time left: 480
+Number of simulations for this move: 531, Time left: 467.98750948905945
+Number of simulations for this move: 546, Time left: 455.9630696773529
+Number of simulations for this move: 561, Time left: 443.9511411190033
+Number of simulations for this move: 581, Time left: 431.93482518196106
+Number of simulations for this move: 567, Time left: 419.91310024261475
+Number of simulations for this move: 631, Time left: 407.9062852859497
+Number of simulations for this move: 622, Time left: 395.89535999298096
+Number of simulations for this move: 652, Time left: 383.8650653362274
+Number of simulations for this move: 647, Time left: 371.8466749191284
+Number of simulations for this move: 576, Time left: 359.8427691459656
+Number of simulations for this move: 506, Time left: 347.8339457511902
+Number of simulations for this move: 588, Time left: 335.81589460372925
+Number of simulations for this move: 541, Time left: 323.80567502975464
+Number of simulations for this move: 578, Time left: 311.790580034256
+Number of simulations for this move: 536, Time left: 299.78155994415283
+Number of simulations for this move: 429, Time left: 287.6835379600525
+Number of simulations for this move: 457, Time left: 275.6629581451416
+Number of simulations for this move: 466, Time left: 263.6271686553955
+Number of simulations for this move: 561, Time left: 251.62164449691772
+Number of simulations for this move: 500, Time left: 239.59696078300476
+Number of simulations for this move: 439, Time left: 227.57560753822327
+Number of simulations for this move: 460, Time left: 215.5620927810669
+Number of simulations for this move: 411, Time left: 203.54052710533142
+Number of simulations for this move: 442, Time left: 191.50299739837646
+Number of simulations for this move: 424, Time left: 179.4919023513794
+Number of simulations for this move: 511, Time left: 167.47740650177002
+Number of simulations for this move: 470, Time left: 155.4575171470642
+Number of simulations for this move: 528, Time left: 143.4294204711914
+Number of simulations for this move: 533, Time left: 131.4035656452179
+Number of simulations for this move: 557, Time left: 119.39600467681885
+Number of simulations for this move: 544, Time left: 107.35919547080994
+Number of simulations for this move: 741, Time left: 95.35173082351685
+
+Running time_limit = 0.05 of total_remaining_time on 7 7 2
+
+Number of simulations for this move: 1000, Time limit: 24.0, Time left: 480
+Number of simulations for this move: 1000, Time limit: 23.347378921508792, Time left: 466.9475784301758
+Number of simulations for this move: 1000, Time limit: 22.726596784591678, Time left: 454.5319356918335
+Number of simulations for this move: 1000, Time limit: 22.1495640873909, Time left: 442.991281747818
+Number of simulations for this move: 1000, Time limit: 21.609610760211947, Time left: 432.1922152042389
+Number of simulations for this move: 1000, Time limit: 21.11413360834122, Time left: 422.28267216682434
+Number of simulations for this move: 1000, Time limit: 20.643024611473084, Time left: 412.86049222946167
+Number of simulations for this move: 1000, Time limit: 20.137054204940796, Time left: 402.7410840988159
+Number of simulations for this move: 1000, Time limit: 19.516805171966553, Time left: 390.33610343933105
+Number of simulations for this move: 1000, Time limit: 18.894875514507294, Time left: 377.8975102901459
+Number of simulations for this move: 1000, Time limit: 18.233224940299987, Time left: 364.66449880599976
+Number of simulations for this move: 1000, Time limit: 17.593014800548556, Time left: 351.86029601097107
+Number of simulations for this move: 1000, Time limit: 16.926957833766938, Time left: 338.53915667533875
+Number of simulations for this move: 1000, Time limit: 16.239232337474824, Time left: 324.78464674949646
+Number of simulations for this move: 1000, Time limit: 15.486110520362855, Time left: 309.7222104072571
+Number of simulations for this move: 1000, Time limit: 14.740772032737732, Time left: 294.81544065475464
+Number of simulations for this move: 1000, Time limit: 14.106186163425447, Time left: 282.1237232685089
+Number of simulations for this move: 1000, Time limit: 13.436886620521546, Time left: 268.7377324104309
+Number of simulations for this move: 1000, Time limit: 12.936259329319, Time left: 258.72518658638
